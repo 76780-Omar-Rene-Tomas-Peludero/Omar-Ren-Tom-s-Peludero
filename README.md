@@ -86,11 +86,15 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## 📌 Proyectos / Projects 
-[proyectos]
+## 📌 Proyectos / Projects
 
-## 📊 GitHub Stats
-[stats]
+<div align="center">
+  <a href="https://github.com/76780-Omar-Rene-Tomas-Peludero/Juan-Ciervo-Landing-Page">
+    <img src="https://i.imgur.com/QC4X4nB.png" alt="JuanCiervo Logo" width="80"/>
+    <br/>
+    <b>Juan Ciervo App</b>
+  </a>
+</div>
 
 ## 🌎 Contacto / Contact 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) linkedin.com/in/omar-rené-tomás-peludero-b3a4272b7
